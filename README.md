@@ -4,9 +4,9 @@ This program is a small single-page web app that is based on just the native cap
 
 ## What technologies did I use to build SharpNote?
 
-Version: node v10.9.0 and OS v10.13.6
-Launch: node server.js
-Testing: http://localhost:3000/assignment2.html
+- Version: node v10.9.0 and OS v10.13.6
+- Launch: node server.js
+- Testing: http://localhost:3000/assignment2.html
 
 ### Bugs:
 - Whole canvas has to be in view in order to move words around correctly.
